@@ -45,7 +45,7 @@ let optionsArray = [
     "GEORGIA",
     "GERMANY",
     "GHANA",
-    "GIBRALTAR",
+
     "GREECE",
     "GUATEMALA",
     "HUNGARY",
@@ -63,7 +63,7 @@ let optionsArray = [
     "KENYA",
     "NORTH KOREA",
     "SOUTH KOREA",
-    "LAO",
+    "LAOS",
     "LATVIA",
     "LEBANON",
     "LIBYA",
